@@ -1,11 +1,7 @@
-## Spam Tanımlama
+## Spam Identification
 
-Bu alıştırmada, spam e-posta algılama modelini eğiteceksiniz. Alıştırma şunları içerir:
+In this exercise, we will train a spam email detection model. The exercise includes:
 
-- Metin ön işleme
-- Bag of Word vektörleştirme
-- Multinomial Naive Bayes model eğitimi
-
-Alıştırmaya başlamak için, `jupyter notebook` içinde `01-Ham-or-Spam.ipynb` dosyasını açın ve talimatları izleyin.
-
-🚀 Sıra sizde!
+- Text preprocessing
+- Bag of Word vectorization
+- Multinomial Naive Bayes model training
